@@ -1,4 +1,4 @@
-### ![Figure_1](D:\miexiaochi\4.论文投稿\4.奶牛DHI\DHI\Figure_1.png)奶牛泌乳天数预测模型
+### ![Figure_1](..\DHI\Figure_1.png)奶牛泌乳天数预测模型
 
 
 
